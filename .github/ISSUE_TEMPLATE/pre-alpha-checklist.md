@@ -11,9 +11,10 @@ assignees: ''
   - [ ] GitHub repo is public (or documented exception in README)
   - [ ] License exists (MIT License, or other license with documented exception to MIT in README)
 - [ ] Tests: Some unit tests written
-  - [ ] Configure coverage tools (Coveralls.io + pytest.cov)
-  - [ ] Configure continuous integration (Circle CI)
-  - [ ] Configure style checking (aka code formatting) tool (flake8)
+  - [ ] Setup coverage tools (Coveralls.io + pytest.cov)
+  - [ ] Setup continuous integration for unit tests (Circle CI)
+  - [ ] Setup integration test tool (Cypress.io)
+  - [ ] Setup style checking tool (prettier or flake8)
 - [ ] Contribute: Ability for teammate to quickly contribute 
   - [ ] “Getting Started” in README
   - [ ] Docker setup: Dockerfile
