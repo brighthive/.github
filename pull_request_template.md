@@ -1,9 +1,16 @@
 # Description
 
+## JIRA ticket
+
+[HIVE-####] <- Replace the pound signs with your JIRA ticket number to have github create a link.
+
+## Summary
+
 A summary of the pull request (PR) and the issue it resolves. Please include the following:
-* A link to the relevant issue and/or ClubHouse card
-* A code "walk-through" in bullet points
-* A demo, e.g., screenshots, GIFs, code examples, etc. (OPTIONAL) 
+
+- A link to the relevant issue and/or ClubHouse card
+- A code "walk-through" in bullet points
+- A demo, e.g., screenshots, GIFs, code examples, etc. (OPTIONAL)
 
 # Checklists
 
@@ -27,7 +34,6 @@ A summary of the pull request (PR) and the issue it resolves. Please include the
 
 A precise explanation of what the PR reviewer needs to evaluate. This might be:
 
-* a low-level code review of certain functions
-* a high-level assessment of strategy or architecture
-* a confirmation that the code behaves as expected on another machine
-
+- a low-level code review of certain functions
+- a high-level assessment of strategy or architecture
+- a confirmation that the code behaves as expected on another machine
